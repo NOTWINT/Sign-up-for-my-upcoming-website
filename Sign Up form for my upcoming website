@@ -1,0 +1,50 @@
+<!DOCTYPE html5>
+<html lang="en">
+<head><title>Sign Up for AmazonIndia</title> <link rel="stylesheet" href="Style.css"></head>  
+<body background="https://mimo.app/i/mountain-road.png" class="bgd">
+<form action="mailto:shuklaparas048@outlook.com" method="get">
+<h3> Sign Up </h3>       
+<div><details class="cl"><fieldset class="fd"><legend>Account Details</legend>  
+<h1>Name </h1><input type="text" name="c" id="happy" placeholder="Name"><br>   
+<p>Your Photo</p><input type="file" name="vdhdhdhdjdb" id="hgshfg"><br>
+<h1>Mobile Number[India]</h1><br><input type="tel" name="grff" id="grfg" placeholder="Mobile No.">
+<br><p>Gender</p><input type="radio" name="p" id="no">Male
+<input type="radio" name="p" id="no">Female<br>
+<h1>Date of Birth</h1><input type="date" name="Date" id="time" placeholder="Date"><br>
+<p>Favorite Colour</p><br><input type="color" name="vdhdhdh"
+id="hddjdbdjdb"><br>
+<h1>Email </h1><input type="email" name="c" id="happy" placeholder="Email"><br>
+<p>Password </p><input type="password" name="c" id="p" placeholder="Password"><br>
+<h1>City</h1> 
+<select>
+<option class="select">Lakhimpur</option>   
+<option>Delhi</option>    
+<option>Pilibhit</option>    
+<option selected>Lucknow</option>  
+<option>Bareilly</option>  
+<option>Rishikesh</option>
+<option>Nainital</option>
+<option>Dehradun</option>
+<option>Jhomritaliya</option>
+<option>Mumbai</option>
+<option>Badrinath</option>
+<option>Kedarnath</option>
+<option>Jaisalmer</option>
+</select><br>
+<p>Hobbies </p><input type="checkbox" name="c" id="d">Netflix 
+<input type="checkbox" name="d" id="g">Video games
+<input type="checkbox" name="g" id="h">Reading
+<input type="checkbox" name="e" id="f">Netflix's Stranger Things</fieldset></details><details><fieldset>
+<legend>Human Verification</legend>
+What is the chemical formula of water
+<br>Is it ?
+<br>1.H<sub>2</sub>O
+<br>2.H<sup>2</sup>O
+<br>3.H2O
+<br><br>Answer.<input type="text" name="p" id="l" placeholder="What is the Answer?">
+<br><br></details><input type="submit" value="Submit">
+</fieldset><fieldset><a href=""></a></fieldset> </div>          
+<bottom>        
+<h6>If you have any complaint regarding this form,please tell us about that along with form details.Thanks<a href="mailto:info@kips.in"></a> </h6></bottom><script>const username='Lee'</script>   
+</body>         
+</html>
